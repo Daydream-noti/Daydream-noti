@@ -1,4 +1,4 @@
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Daynoti.Daynoti)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=daynoti/daynoti)
  
 <!---
 Daydream-noti/Daydream-noti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
