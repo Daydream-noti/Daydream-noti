@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?repo_id=daynoti/daynoti)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=daynoti.daynoti)
  
 <!---
 Daydream-noti/Daydream-noti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
